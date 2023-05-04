@@ -1,0 +1,190 @@
+[
+    {
+      "id": 1,
+      "name": "Lasia Buddha",
+      "recipe_count": 120,
+      "ratings": 4.3,
+      "likes": "1250",
+      "years_of_experience": 7,
+      "description": "A Michelin-starred chef and restaurateur known for his fiery personality and tough love approach on reality TV shows like 'Hell's Kitchen' and 'MasterChef.' ",
+      "image_url": "https://i.ibb.co/WDRH9Kq/Getty-Images-Buddha-Lo.jpg",
+      "recipes":[
+        {
+            "recipe_id": 1,
+            "name": "Grilled Steak with Garlic Butter",
+            "image": "https://www.eatingonadime.com/wp-content/uploads/2019/06/garlic-butter-steak-1.jpg",
+            "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon smoked paprika, 1/2 teaspoon cayenne pepper",
+
+            "rating": 4.8,
+            "method": "1. Preheat grill to high heat. \n2. In a small bowl, combine spices to make a rub. \n3. Rub steaks with the spice mixture on both sides. \n4. Grill steaks for 4-5 minutes per side for medium-rare, or until desired doneness. \n5. Remove from grill and let rest for 5 minutes. \n6. While steaks are resting, melt butter in a small saucepan over low heat. Add minced garlic and cook until fragrant, about 1-2 minutes. \n7. Spoon garlic butter over steaks before serving."
+
+        },
+        {
+            "recipe_id": 2,
+            "name": "Classic Beef Burger",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon smoked paprika",
+
+            "rating": 4.7,
+            "method": "1. In a large bowl, combine ground beef with the spice mixture. \n2. Divide the meat into 4-6 equal portions and shape them into patties. \n3. Preheat grill to high heat. \n4. Grill patties for 4-5 minutes per side, or until fully cooked. \n5. Remove from grill and let rest for a few minutes. \n6. Serve on buns with your favorite toppings."
+
+
+        },
+        {
+            "recipe_id": 3,
+            "name": "Southern Fried Chicken",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon paprika, 1 teaspoon cayenne pepper",
+
+            "rating": 4.5,
+            "method": "1. In a large bowl, combine flour with the spice mixture. \n2. Dip chicken pieces in beaten eggs, then coat them in the flour mixture. \n3. Heat oil in a large skillet over medium-high heat. \n4. Fry chicken pieces in batches, turning occasionally, until golden brown and fully cooked. \n5. Drain on paper towels and serve hot."
+
+        },
+        {
+            "recipe_id":4,
+            "name":"Chicken Fried Steak",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "Spices": "salt, black pepper, garlic powder, paprika, cayenne pepper, onion powder, all-purpose flour, milk, eggs, vegetable oil, beef cube gravy",
+            "rating": 4.7,
+            "method":"1.Season beef steaks with salt, black pepper, garlic powder, paprika, cayenne pepper, and onion powder. \n 2.In a shallow dish, mix all-purpose flour with more salt, black pepper, garlic powder, paprika, and cayenne pepper. \n 3.In another shallow dish, whisk eggs and milk together. \n 4.Dredge the seasoned steaks in the flour mixture, then dip in the egg mixture, then back into the flour mixture. \n 5.Heat vegetable oil in a large skillet over medium-high heat. Fry the steaks until golden brown on both sides, about 4-5 minutes per side. \n 6.Drain on paper towels and serve with beef cube gravy."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "James Baby",
+      "recipe_count": 40,
+      "ratings": 4.3,
+      "likes": "8032",
+      "years_of_experience": 17,
+      "description":" A beloved American chef, author, and television personality who brought French cuisine to the American public with her famous cookbook 'Mastering the Art of French Cooking.'" ,
+      "image_url": "https://i.ibb.co/bJgz2WM/images-q-tbn-ANd9-Gc-QJWx-Glz-D-r-Cb-CSCSZJc-EVkx-XZJZ4g-HWb-H7ng-usqp-CAU.jpg",
+      "recipes": [
+        {
+            "recipe_id": 1,
+            "name": "Classic Beef Burger",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon smoked paprika",
+
+            "rating": 4.7,
+            "method": "1. In a large bowl, combine ground beef with the spice mixture. \n2. Divide the meat into 4-6 equal portions and shape them into patties. \n3. Preheat grill to high heat. \n4. Grill patties for 4-5 minutes per side, or until fully cooked. \n5. Remove from grill and let rest for a few minutes. \n6. Serve on buns with your favorite toppings."
+        },
+        {
+            "recipe_id": 2,
+            "name": "Classic Macaroni and Cheese",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "elbow macaroni,  butter, all-purpose flour,  milk, cheddar cheese, salt, black pepper",
+
+            "rating": 4.7,
+            "method": "1.Preheat oven to 375°F (190°C). Butter a 2-quart casserole dish. \n2.Cook elbow macaroni in a large pot of salted boiling water until tender, about 8-10 minutes. Drain and set aside. \n3.In a saucepan, melt butter over medium heat. Whisk in all-purpose flour and cook for 1-2 minutes until smooth. \n4.Gradually whisk in milk until mixture is smooth. Bring to a simmer and cook for 2-3 minutes until thickened. \n5.Remove from heat and stir in shredded cheddar cheese until melted. Season with salt and black pepper to taste.\n6.Combine the cheese sauce with the cooked macaroni and pour into the prepared casserole dish. \n 7. Bake for 25-30 minutes until golden brown and bubbly."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jamie Oliver",
+      "recipe_count": 24,
+      "ratings": 4.7,
+      "likes": "1300",
+      "years_of_experience": 2.5,
+      "description":"A British chef, author, and television personality who advocates for healthier eating habits and sustainable food practices through his television shows, cookbooks, and activism.",
+      
+      "image_url": "https://i.ibb.co/71kNvZL/images-q-tbn-ANd9-Gc-Qr5-WQn0-F0b0o-WJ5s-Gq-KUcc-XQ-qax-bobu3-Qw-usqp-CAU.jpg",
+      "recipes": [
+        {
+            "recipe_id": 1,
+            "name": "BBQ Chicken Skewers",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "2 garlic cloves, minced, 1/2 cup soy sauce,1/4 cup honey, 1/4 cup ketchup,1/4 cup vegetable oil,Salt and black pepper to taste",
+
+            "rating": 4.5,
+            "method": "1. In a mixing bowl, combine garlic, soy sauce, honey, ketchup, vegetable oil, oregano, cayenne pepper, salt, and black pepper.\n2. Thread chicken onto skewers, then brush with the marinade. Let sit in the fridge for 30 minutes to an hour.\n3. Preheat your grill to medium-high heat. Grill skewers for 8-10 minutes, flipping occasionally, until cooked through.\n4. Serve hot and enjoy!"
+
+        },
+        {
+            "recipe_id": 2,
+            "name": "Classic Meatloaf",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "1 onion, chopped,1/2 green bell pepper, chopped,1/4 cup ketchup, 1/4 cup ketchup,1/4 cup vegetable oil,2 tablespoons Dijon mustard",
+
+            "rating": 4.2,
+            "method": "1. Preheat oven to 350°F. Grease a loaf pan with cooking spray.\n2. In a mixing bowl, combine onion, bell pepper, garlic, ketchup, Worcestershire sauce, Dijon mustard, soy sauce, brown sugar, thyme, basil, salt, and black pepper.\n3. Add the ground beef and mix well. Transfer the mixture to the prepared loaf pan and smooth out the top.\n4. Bake for 1 hour or until the internal temperature of the meatloaf reaches 160°F.\n5. Remove from the oven and let rest for 5-10 minutes before slicing and serving."
+
+
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ina Mita",
+      "recipe_count": 12,
+      "ratings": 4.3,
+      "likes": "1400",
+      "years_of_experience": 15,
+      "description": "A popular American chef and author known for her easy-to-follow recipes and casual entertaining style on her television show 'Barefoot Contessa'.",
+      "image_url": "https://i.ibb.co/pzczfzW/16-Ina3-medium-Square-At3-X-v3.jpg",
+      "recipes":[
+        {
+            "recipe_id": 1,
+            "name": "Creamy Garlic Shrimp",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "2 tbsp butter,1 lb large shrimp, peeled and deveined,1/2 cup heavy cream,1/4 cup grated parmesan cheese,4 cloves garlic, minced",
+
+            "rating": 4.2,
+            "method": "1. In a large skillet, heat the butter and olive oil over medium heat.\n2.Add the shrimp and sprinkle with salt and black pepper. Cook for 2-3 minutes, until pink.\n3. Remove the shrimp from the skillet and set aside.\n4. Return the shrimp to the skillet and toss to coat with the sauce.\n5. Garnish with chopped parsley and serve hot."
+        },
+        {
+            "recipe_id": 2,
+            "name": "Grilled Ribeye Steak",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "2 cloves garlic, minced,1 tablespoon chopped fresh thyme leaves, peeled and deveined,Salt and freshly ground black pepper, to taste",
+
+            "rating": 4.8,
+            "method": "1.Preheat a grill or grill pan to high heat.\n2. In a small bowl, whisk together garlic, rosemary, thyme, and olive oil.\n3. Season both sides of the steak generously with salt and pepper.\n4. Grill the steak for 6-8 minutes per side, or until desired doneness is reached.\n5.Remove the steak from the grill and let rest for 5-10 minutes before slicing and serving."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Alton Brown",
+      "recipe_count": 19,
+      "ratings": 4.1,
+      "likes": "9001",
+      "years_of_experience": 7,
+      "description": "An Italian chef and restaurateur who has earned multiple Michelin stars for his innovative cuisine at his restaurant Osteria Francescana in Modena, Italy.",
+      "image_url": "https://i.ibb.co/4Fppv0X/altonbrown.webp",
+      "recipes":[
+        {
+            "recipe_id": 1,
+            "name": "Creamy Garlic Shrimp",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "2 tbsp butter,1 lb large shrimp, peeled and deveined,1/2 cup heavy cream,1/4 cup grated parmesan cheese,4 cloves garlic, minced",
+
+            "rating": 4.2,
+            "method": "1. In a large skillet, heat the butter and olive oil over medium heat.\n2.Add the shrimp and sprinkle with salt and black pepper. Cook for 2-3 minutes, until pink.\n3. Remove the shrimp from the skillet and set aside.\n4. Return the shrimp to the skillet and toss to coat with the sauce.\n5. Garnish with chopped parsley and serve hot."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pam Liya",
+      "recipe_count": 40,
+      "ratings": 4.7,
+      "likes": "1302",
+      "years_of_experience": 5,
+      "description": "An Israeli-British chef, author, and restaurateur known for his inventive vegetarian dishes and use of Middle Eastern flavors in his cooking.",
+      "image_url": "https://i.ibb.co/QmvJTBN/116792232-nigella-capture.jpg",
+      "recipes":[
+        {
+            "recipe_id": 1,
+            "name": "Southern Fried Chicken",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon paprika, 1 teaspoon cayenne pepper",
+
+            "rating": 4.5,
+            "method": "1. In a large bowl, combine flour with the spice mixture. \n2. Dip chicken pieces in beaten eggs, then coat them in the flour mixture. \n3. Heat oil in a large skillet over medium-high heat. \n4. Fry chicken pieces in batches, turning occasionally, until golden brown and fully cooked. \n5. Drain on paper towels and serve hot."
+
+        }
+      ]
+    }
+  ]

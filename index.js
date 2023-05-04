@@ -42,3 +42,5 @@ app.get('/chefData', (req, res)=>{
 app.listen(port, () => {
     console.log(`Dragon API is running on port: ${port}`)
 })
+
+module.exports = app;

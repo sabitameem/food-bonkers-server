@@ -78,6 +78,14 @@
 
             "rating": 4.7,
             "method": "1.Preheat oven to 375°F (190°C). Butter a 2-quart casserole dish. \n2.Cook elbow macaroni in a large pot of salted boiling water until tender, about 8-10 minutes. Drain and set aside. \n3.In a saucepan, melt butter over medium heat. Whisk in all-purpose flour and cook for 1-2 minutes until smooth. \n4.Gradually whisk in milk until mixture is smooth. Bring to a simmer and cook for 2-3 minutes until thickened. \n5.Remove from heat and stir in shredded cheddar cheese until melted. Season with salt and black pepper to taste.\n6.Combine the cheese sauce with the cooked macaroni and pour into the prepared casserole dish. \n 7. Bake for 25-30 minutes until golden brown and bubbly."
+        },
+        {
+            "recipe_id":3,
+            "name":"Chicken Fried Steak",
+            "image": "https://i.ibb.co/g3DnVbM/150306-The-Best-Fried-Chicken-Steak-mfs-1-X2-5166ee0334cc446f9164b76f8726fa64.jpg",
+            "Spices": "salt, black pepper, garlic powder, paprika, cayenne pepper, onion powder, all-purpose flour, milk, eggs, vegetable oil, beef cube gravy",
+            "rating": 4.7,
+            "method":"1.Season beef steaks with salt, black pepper, garlic powder, paprika, cayenne pepper, and onion powder. \n 2.In a shallow dish, mix all-purpose flour with more salt, black pepper, garlic powder, paprika, and cayenne pepper. \n 3.In another shallow dish, whisk eggs and milk together. \n 4.Dredge the seasoned steaks in the flour mixture, then dip in the egg mixture, then back into the flour mixture. \n 5.Heat vegetable oil in a large skillet over medium-high heat. Fry the steaks until golden brown on both sides, about 4-5 minutes per side. \n 6.Drain on paper towels and serve with beef cube gravy."
         }
       ]
     },
@@ -112,6 +120,14 @@
             "method": "1. Preheat oven to 350°F. Grease a loaf pan with cooking spray.\n2. In a mixing bowl, combine onion, bell pepper, garlic, ketchup, Worcestershire sauce, Dijon mustard, soy sauce, brown sugar, thyme, basil, salt, and black pepper.\n3. Add the ground beef and mix well. Transfer the mixture to the prepared loaf pan and smooth out the top.\n4. Bake for 1 hour or until the internal temperature of the meatloaf reaches 160°F.\n5. Remove from the oven and let rest for 5-10 minutes before slicing and serving."
 
 
+        },
+        {
+            "recipe_id":3,
+            "name":"Chicken Fried Steak",
+            "image": "https://i.ibb.co/g3DnVbM/150306-The-Best-Fried-Chicken-Steak-mfs-1-X2-5166ee0334cc446f9164b76f8726fa64.jpg",
+            "Spices": "salt, black pepper, garlic powder, paprika, cayenne pepper, onion powder, all-purpose flour, milk, eggs, vegetable oil, beef cube gravy",
+            "rating": 4.7,
+            "method":"1.Season beef steaks with salt, black pepper, garlic powder, paprika, cayenne pepper, and onion powder. \n 2.In a shallow dish, mix all-purpose flour with more salt, black pepper, garlic powder, paprika, and cayenne pepper. \n 3.In another shallow dish, whisk eggs and milk together. \n 4.Dredge the seasoned steaks in the flour mixture, then dip in the egg mixture, then back into the flour mixture. \n 5.Heat vegetable oil in a large skillet over medium-high heat. Fry the steaks until golden brown on both sides, about 4-5 minutes per side. \n 6.Drain on paper towels and serve with beef cube gravy."
         }
       ]
     },
@@ -136,6 +152,17 @@
         },
         {
             "recipe_id": 2,
+            "name": "Classic Meatloaf",
+            "image": "https://i.ibb.co/1bswQXL/meatloaf.jpg",
+            "spices": "1 onion, chopped,1/2 green bell pepper, chopped,1/4 cup ketchup, 1/4 cup ketchup,1/4 cup vegetable oil,2 tablespoons Dijon mustard",
+
+            "rating": 4.2,
+            "method": "1. Preheat oven to 350°F. Grease a loaf pan with cooking spray.\n2. In a mixing bowl, combine onion, bell pepper, garlic, ketchup, Worcestershire sauce, Dijon mustard, soy sauce, brown sugar, thyme, basil, salt, and black pepper.\n3. Add the ground beef and mix well. Transfer the mixture to the prepared loaf pan and smooth out the top.\n4. Bake for 1 hour or until the internal temperature of the meatloaf reaches 160°F.\n5. Remove from the oven and let rest for 5-10 minutes before slicing and serving."
+
+
+        },
+        {
+            "recipe_id": 3,
             "name": "Grilled Ribeye Steak",
             "image": "https://i.ibb.co/Cb510D4/big-green-egg-ribeye.jpg",
             "spices": "2 cloves garlic, minced,1 tablespoon chopped fresh thyme leaves, peeled and deveined,Salt and freshly ground black pepper, to taste",
@@ -145,6 +172,7 @@
         }
       ]
     },
+
     {
       "id": 5,
       "name": "Alton Brown",
@@ -163,9 +191,30 @@
 
             "rating": 4.2,
             "method": "1. In a large skillet, heat the butter and olive oil over medium heat.\n2.Add the shrimp and sprinkle with salt and black pepper. Cook for 2-3 minutes, until pink.\n3. Remove the shrimp from the skillet and set aside.\n4. Return the shrimp to the skillet and toss to coat with the sauce.\n5. Garnish with chopped parsley and serve hot."
+        },
+        {
+            "recipe_id": 2,
+            "name": "Classic Meatloaf",
+            "image": "https://i.ibb.co/1bswQXL/meatloaf.jpg",
+            "spices": "1 onion, chopped,1/2 green bell pepper, chopped,1/4 cup ketchup, 1/4 cup ketchup,1/4 cup vegetable oil,2 tablespoons Dijon mustard",
+
+            "rating": 4.2,
+            "method": "1. Preheat oven to 350°F. Grease a loaf pan with cooking spray.\n2. In a mixing bowl, combine onion, bell pepper, garlic, ketchup, Worcestershire sauce, Dijon mustard, soy sauce, brown sugar, thyme, basil, salt, and black pepper.\n3. Add the ground beef and mix well. Transfer the mixture to the prepared loaf pan and smooth out the top.\n4. Bake for 1 hour or until the internal temperature of the meatloaf reaches 160°F.\n5. Remove from the oven and let rest for 5-10 minutes before slicing and serving."
+
+
+        },
+        {
+            "recipe_id": 3,
+            "name": "Grilled Ribeye Steak",
+            "image": "https://i.ibb.co/Cb510D4/big-green-egg-ribeye.jpg",
+            "spices": "2 cloves garlic, minced,1 tablespoon chopped fresh thyme leaves, peeled and deveined,Salt and freshly ground black pepper, to taste",
+
+            "rating": 4.8,
+            "method": "1.Preheat a grill or grill pan to high heat.\n2. In a small bowl, whisk together garlic, rosemary, thyme, and olive oil.\n3. Season both sides of the steak generously with salt and pepper.\n4. Grill the steak for 6-8 minutes per side, or until desired doneness is reached.\n5.Remove the steak from the grill and let rest for 5-10 minutes before slicing and serving."
         }
       ]
     },
+
     {
       "id": 6,
       "name": "Pam Liya",
@@ -185,6 +234,26 @@
             "rating": 4.5,
             "method": "1. In a large bowl, combine flour with the spice mixture. \n2. Dip chicken pieces in beaten eggs, then coat them in the flour mixture. \n3. Heat oil in a large skillet over medium-high heat. \n4. Fry chicken pieces in batches, turning occasionally, until golden brown and fully cooked. \n5. Drain on paper towels and serve hot."
 
+        },
+        {
+            "recipe_id": 2,
+            "name": "Classic Meatloaf",
+            "image": "https://i.ibb.co/1bswQXL/meatloaf.jpg",
+            "spices": "1 onion, chopped,1/2 green bell pepper, chopped,1/4 cup ketchup, 1/4 cup ketchup,1/4 cup vegetable oil,2 tablespoons Dijon mustard",
+
+            "rating": 4.2,
+            "method": "1. Preheat oven to 350°F. Grease a loaf pan with cooking spray.\n2. In a mixing bowl, combine onion, bell pepper, garlic, ketchup, Worcestershire sauce, Dijon mustard, soy sauce, brown sugar, thyme, basil, salt, and black pepper.\n3. Add the ground beef and mix well. Transfer the mixture to the prepared loaf pan and smooth out the top.\n4. Bake for 1 hour or until the internal temperature of the meatloaf reaches 160°F.\n5. Remove from the oven and let rest for 5-10 minutes before slicing and serving."
+
+
+        },
+        {
+            "recipe_id": 3,
+            "name": "Grilled Ribeye Steak",
+            "image": "https://i.ibb.co/Cb510D4/big-green-egg-ribeye.jpg",
+            "spices": "2 cloves garlic, minced,1 tablespoon chopped fresh thyme leaves, peeled and deveined,Salt and freshly ground black pepper, to taste",
+
+            "rating": 4.8,
+            "method": "1.Preheat a grill or grill pan to high heat.\n2. In a small bowl, whisk together garlic, rosemary, thyme, and olive oil.\n3. Season both sides of the steak generously with salt and pepper.\n4. Grill the steak for 6-8 minutes per side, or until desired doneness is reached.\n5.Remove the steak from the grill and let rest for 5-10 minutes before slicing and serving."
         }
       ]
     }

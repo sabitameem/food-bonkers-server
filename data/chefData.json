@@ -1,6 +1,6 @@
 [
     {
-        
+
       "id": 1,
       "name": "Lasia Buddha",
       "recipe_count": 120,
@@ -13,7 +13,7 @@
         {
             "recipe_id": 1,
             "name": "Grilled Steak with Garlic Butter",
-            "image": "https://www.eatingonadime.com/wp-content/uploads/2019/06/garlic-butter-steak-1.jpg",
+            "image": "https://i.ibb.co/fXSXwJC/Garlic-Butter-Basted-Steakhouse-Steaks-IMAGE-42.jpg",
             "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon smoked paprika, 1/2 teaspoon cayenne pepper",
 
             "rating": 4.8,
@@ -23,7 +23,7 @@
         {
             "recipe_id": 2,
             "name": "Classic Beef Burger",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/F4vZrDm/gray-overlay-large.jpg",
             "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon smoked paprika",
 
             "rating": 4.7,
@@ -34,7 +34,7 @@
         {
             "recipe_id": 3,
             "name": "Southern Fried Chicken",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/bLbkrxm/121644-4758-mx.jpg",
             "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon paprika, 1 teaspoon cayenne pepper",
 
             "rating": 4.5,
@@ -44,7 +44,7 @@
         {
             "recipe_id":4,
             "name":"Chicken Fried Steak",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/g3DnVbM/150306-The-Best-Fried-Chicken-Steak-mfs-1-X2-5166ee0334cc446f9164b76f8726fa64.jpg",
             "Spices": "salt, black pepper, garlic powder, paprika, cayenne pepper, onion powder, all-purpose flour, milk, eggs, vegetable oil, beef cube gravy",
             "rating": 4.7,
             "method":"1.Season beef steaks with salt, black pepper, garlic powder, paprika, cayenne pepper, and onion powder. \n 2.In a shallow dish, mix all-purpose flour with more salt, black pepper, garlic powder, paprika, and cayenne pepper. \n 3.In another shallow dish, whisk eggs and milk together. \n 4.Dredge the seasoned steaks in the flour mixture, then dip in the egg mixture, then back into the flour mixture. \n 5.Heat vegetable oil in a large skillet over medium-high heat. Fry the steaks until golden brown on both sides, about 4-5 minutes per side. \n 6.Drain on paper towels and serve with beef cube gravy."
@@ -64,7 +64,7 @@
         {
             "recipe_id": 1,
             "name": "Classic Beef Burger",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/F4vZrDm/gray-overlay-large.jpg",
             "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon smoked paprika",
 
             "rating": 4.7,
@@ -73,7 +73,7 @@
         {
             "recipe_id": 2,
             "name": "Classic Macaroni and Cheese",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/Th5DMjW/andy-husbands-classic-mac-and-cheese-e1515187781173.jpg",
             "spices": "elbow macaroni,  butter, all-purpose flour,  milk, cheddar cheese, salt, black pepper",
 
             "rating": 4.7,
@@ -95,7 +95,7 @@
         {
             "recipe_id": 1,
             "name": "BBQ Chicken Skewers",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/nMGDzvW/bbq-chicken-skewers-recipe.jpg",
             "spices": "2 garlic cloves, minced, 1/2 cup soy sauce,1/4 cup honey, 1/4 cup ketchup,1/4 cup vegetable oil,Salt and black pepper to taste",
 
             "rating": 4.5,
@@ -105,7 +105,7 @@
         {
             "recipe_id": 2,
             "name": "Classic Meatloaf",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/1bswQXL/meatloaf.jpg",
             "spices": "1 onion, chopped,1/2 green bell pepper, chopped,1/4 cup ketchup, 1/4 cup ketchup,1/4 cup vegetable oil,2 tablespoons Dijon mustard",
 
             "rating": 4.2,
@@ -128,7 +128,7 @@
         {
             "recipe_id": 1,
             "name": "Creamy Garlic Shrimp",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/qFtbKNh/images-q-tbn-ANd9-Gc-Rv-Ghbsn7-QBsj-IPUJ11-Y7x-QVFRZg-z-B1-Rqmpg-usqp-CAU.jpg",
             "spices": "2 tbsp butter,1 lb large shrimp, peeled and deveined,1/2 cup heavy cream,1/4 cup grated parmesan cheese,4 cloves garlic, minced",
 
             "rating": 4.2,
@@ -137,7 +137,7 @@
         {
             "recipe_id": 2,
             "name": "Grilled Ribeye Steak",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/Cb510D4/big-green-egg-ribeye.jpg",
             "spices": "2 cloves garlic, minced,1 tablespoon chopped fresh thyme leaves, peeled and deveined,Salt and freshly ground black pepper, to taste",
 
             "rating": 4.8,
@@ -158,7 +158,7 @@
         {
             "recipe_id": 1,
             "name": "Creamy Garlic Shrimp",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image":"https://i.ibb.co/qFtbKNh/images-q-tbn-ANd9-Gc-Rv-Ghbsn7-QBsj-IPUJ11-Y7x-QVFRZg-z-B1-Rqmpg-usqp-CAU.jpg",
             "spices": "2 tbsp butter,1 lb large shrimp, peeled and deveined,1/2 cup heavy cream,1/4 cup grated parmesan cheese,4 cloves garlic, minced",
 
             "rating": 4.2,
@@ -179,7 +179,7 @@
         {
             "recipe_id": 1,
             "name": "Southern Fried Chicken",
-            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Best-Ever-Burger-Recipe-2.jpg",
+            "image": "https://i.ibb.co/YWGTMn3/southern-fried-chicken.jpg",
             "spices": "1 tablespoon kosher salt, 1 tablespoon black pepper, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon paprika, 1 teaspoon cayenne pepper",
 
             "rating": 4.5,

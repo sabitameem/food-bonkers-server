@@ -14,17 +14,12 @@ app.get('/chefData', (req, res)=>{
     res.send(chefData)
 })
 
-// app.get('/chefData/:id/recipes', (req, res) => {
-//     const { id } = req.params;
-//     const chef = chefData.find(chef => chef.id == id);
-  
-//     if (!chef) {
-//       return res.status(404).json({ message: `Chef with ID ${id} not found` });
-//     }
-  
-//     const recipes = chef.recipes;
-//     res.json(recipes);
-//   });
+ app.get('/chefData/:id/chefData', (req,res)=>{
+    const {id}= req.params;
+    const chef = chefData.find(chef=> chef.id ==id)
+    res.send(chef)
+ })
+
   app.get('/chefData/:id/recipes', (req,res)=>{
     const { id } = req.params;
     const chef = chefData.find(chef => chef.id == id);
